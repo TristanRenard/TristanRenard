@@ -5,7 +5,7 @@ Salut, mon nom d'usage est Celeste, j'ai 21 ans je suis dans une école d'info p
 ## Contact: 
 - insta : [@tristanrenard](https://www.instagram.com/tristanrenard/)
 - discord : [parlabarbedemerlin](https://discord.com/users/852647642126614538)
-- mail : [celeste.renard@proton.me]
+- mail : [celeste.renard@proton.me](mailto:celeste.renard@proton.me)
 
 
 ## les projets que je dev en ce moment :
