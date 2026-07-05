@@ -1,6 +1,6 @@
 # Salut, salut
 ## Moi
-Salut, mon nom d'usage est Celeste, j'ai 21 ans je suis dans une école d'info pas terrible mais pas grave on fait avec, je fais du dev web plutôt créa même si je me démerdes pas mal en back. Je fais du Js majoritairement et d'autres choses quand je veux m'amuser.
+Salut, mon nom d'usage est Celeste, j'ai 21 ans je suis dans une école d'info pas terrible mais pas grave on fait avec, je fais du dev web plutôt créa même si je me démerdes pas mal en back. Je fais du Js majoritairement et d'autres choses quand je veux m'amuser. Sur mon github il y a pas grand chose, surtout des vieux projet ou des trucs fait en speed, la plupart de mes projets versionnés sont auto hébergé sur mon infra vu que j'aimes pas microsoft, peut être qu'un jour si j'arrives à avoir une version sécur et publique je partagerais plus mon travail.
 
 ## Contact: 
 - insta : [@tristanrenard](https://www.instagram.com/tristanrenard/)
@@ -40,5 +40,4 @@ Salut, mon nom d'usage est Celeste, j'ai 21 ans je suis dans une école d'info p
 <img width="97" height="31" alt="image" src="https://github.com/user-attachments/assets/3c4c5a64-4813-40cf-92b5-51daef70045a" />
 
 
-
-
+> PS : il y a un Webring planqué avec une surprise pour le premier qui le trouve 
