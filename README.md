@@ -26,7 +26,7 @@ Salut, mon nom d'usage est Celeste, j'ai 21 ans je suis dans une école d'info p
 
 ## Mes engagements :
 - Droits des personnes LGBTQ+ : étant concerné.e je m'éforce de défendre de me battre pour nos droits qu'ils nous reste à accquérire, actuellement je suis adhérent.e chez [OUTrans](https://www.outrans.org/)
-- Luttes pour les personnes séropositives : la communauté LGBTQ+ ayant été particulièrement touchée par cette épidémie, c'est une évidence de l'intégre à nos luttes, de plus récement les aides et les financements de la recherche ayant été fortements réduis, des vies sont en jeux, luttons contre la sérophobie, pour l'accès aux traitements et pour l'éducation sexuel.
+- Luttes pour les personnes séropositives : la communauté LGBTQ+ ayant été particulièrement touchée par cette épidémie, c'est une évidence de l'intégrer à nos luttes, de plus récement les aides et les financements de la recherche ayant été fortements réduis, des vies sont en jeux, luttons contre la sérophobie, pour l'accès aux traitements et pour l'éducation sexuel.
 - Bien être annimal
 - présidentiels 2027 : le danger de l'extreme droite étant grandissant en occident et ayant déjà démontré ses impacts à l'étranger il est important de se positionner (au cas où ça ne serait pas claire même si je ne me reconnais pas dans leurs programme, je ne vois pas d'autres choses à faire que soutenir La FI.
 
